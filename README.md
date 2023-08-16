@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D5616AQGKL8uaamKc6Q/profile-displaybackgroundimage-shrink_350_1400/0/1675835718392?e=1697673600&v=beta&t=EsJo8f6UFpwxwXhgzKncefTkrkTiyo5y0dKMQ4HybEI)]
+![logo](https://media.licdn.com/dms/image/D5616AQGKL8uaamKc6Q/profile-displaybackgroundimage-shrink_350_1400/0/1675835718392?e=1697673600&v=beta&t=EsJo8f6UFpwxwXhgzKncefTkrkTiyo5y0dKMQ4HybEI)
 <h1 align="center">Hi 👋, I'm Dinesh Pun</h1>
 <h3 align="center">A passionate frontend developer from Australia.</h3>
 <img align="right" alt="coding" width="400" src="https://i.ibb.co/FbCSq9b/programmer.gif">
